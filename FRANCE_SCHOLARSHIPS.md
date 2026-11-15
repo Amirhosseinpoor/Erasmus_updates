@@ -1,20 +1,20 @@
-# Top Fully Funded French University Programs (100% English-Taught)
+# Top Fully Funded French University Programs (100% English-Taught in M1 & M2)
 
-> **Key Eligibility Facts:**
-> - **Language:** 100% taught in English (M1 & M2). **ZERO French language proficiency required** (IELTS / TOEFL or Medium of Instruction certificate only).
-> - **Funding Standard:** Strictly fully funded — **100% tuition fee coverage/waiver + full monthly living stipend**.
-> - **Status:** Updated as of **November 15, 2026** (all closed deadlines removed).
+> **Strict Language & Funding Verification:**
+> - **Language Guarantee:** Every program in the active tables below is verified to be **100% taught in English across BOTH Master 1 (M1) and Master 2 (M2)**. **ZERO French language proficiency is required** (no DELF/DALF).
+> - **Funding Standard:** Strictly fully funded — **100% tuition fee waiver/coverage + full monthly living stipend**.
+> - **Status:** Updated as of **November 15, 2026** (all closed deadlines and programs with French M1 have been pruned).
 
 ---
 
 ## 1. Direct 5-Year PhD Tracks (M1 + M2 + 3-Year Doctoral Contract)
 
-These tracks integrate a 2-year Research Master directly into a 3-year PhD with continuous full funding. For direct PhD tracks, **program admission and full scholarship applications are unified in the same application**.
+These tracks integrate a 2-year Research Master directly into a 3-year PhD with continuous full funding. Both admission to the degree and the full scholarship are **unified in a single online application**.
 
-| University | Eligible Tracks | Financial Package | Program Admission & Funding Deadline | Official Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Institut Polytechnique de Paris (IP Paris)**<br>*(Polytechnique, Télécom, ENSTA)* | Electrical Engineering, Control & Robotics, AI, Applied Math | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** ~€2,300+ / mo gross doctoral salary | **January 14, 2027**<br>(23:59 CET) | [IP Paris PhD Track Portal](https://www.ip-paris.fr/en/education/phd-track) |
-| **Université PSL**<br>*(ENS Paris, Mines Paris, ESPCI)* | Robotics, Control, Computer Science, Energy & Physics | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** 3-year funded doctoral contract | **December 14, 2026**<br>(23:59 CET) | [PSL PhD Tracks Portal](https://psl.eu/en/education/psl-phd-tracks) |
+| University | Exact English Program / Track | Language Verification | Financial Package | Unified Admission & Funding Deadline | Official Portal Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Institut Polytechnique de Paris (IP Paris)**<br>*(École Polytechnique, Télécom Paris, ENSTA)* | • PhD Track in Electrical Engineering<br>• PhD Track in Computer Science & AI<br>• PhD Track in Mechanics & Robotics | **100% English** in M1, M2, and PhD. Designed specifically for international students. | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** ~€2,300+ / mo gross doctoral salary | **January 14, 2027**<br>(23:59 CET) | [IP Paris PhD Track Portal](https://www.ip-paris.fr/en/education/phd-track) |
+| **Université PSL**<br>*(ENS Paris, Mines Paris, ESPCI)* | • PhD Track in Control, Decision & Robotics<br>• PhD Track in Computer Science<br>• PhD Track in Applied Physics & Energy | **100% English** in M1, M2, and PhD across all constituent laboratories. | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** 3-year funded doctoral employment contract | **December 14, 2026**<br>(23:59 CET) | [PSL PhD Tracks Portal](https://psl.eu/en/education/psl-phd-tracks) |
 
 ---
 
@@ -26,21 +26,18 @@ These tracks integrate a 2-year Research Master directly into a 3-year PhD with 
 * **Additional Benefits:** Free international round-trip airfare, national health insurance, and priority access to subsidized CROUS public student housing.
 * **Golden Rule:** You can be presented by **ONLY ONE** French institution per year. Multiple nominations result in automatic rejection.
 
-### Active Eiffel Universities (Scholarship Deadline vs. Master Admission Deadline):
+### Verified Active Eiffel Universities (100% English M1 & M2):
 
 > [!NOTE]
 > To benefit from the Eiffel scholarship, you must **(1)** meet the university's internal Eiffel pre-selection deadline to get nominated, **AND (2)** submit your formal Master program admission application before the program's admission cutoff.
 
-| University | Eligible English Master Fields | Eiffel Internal Deadline *(For Nomination)* | Master Program Admission Deadline *(Degree Application)* | How to Apply / Contact Channel | Official Link |
+| University | Exact Verified English Track (M1 & M2) | Eiffel Internal Deadline *(For Nomination)* | Master Program Admission Deadline *(Degree Application)* | How to Apply / Contact Channel | Official Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Université Grenoble Alpes (UGA)** | Control & Systems (SCIT), Cyber-Physical Systems | **November 16, 2026** *(Closes Tomorrow)* | • **April 30, 2027** (e-candidat Wave 1)<br>• **May 31, 2027** (Wave 2)<br>• *Études en France:* Dec 15, 2026 – Jan 15, 2027 | Email dossier directly to Master Program Coordinator | [UGA Eiffel Portal](https://www.univ-grenoble-alpes.fr/english/study/finances/idex-scholarships/) |
-| **Université de Strasbourg** | Robotics, Automation, Signal & Image Processing | **November 20, 2026** | • **March 25, 2027** (e-candidat portal opens Jan 10)<br>• *Études en France:* Dec 15, 2026 – Jan 15, 2027 | Email Master Director **AND** cc `dri-bourse@unistra.fr` | [Unistra Eiffel Call](https://iti.unistra.fr/en/) |
-| **Sorbonne Université** | Robotics & Smart Systems (RoSys), AI, Computer Science | **November 23, 2026** | • **March 31, 2027** (Faculty of Science portal opens Jan 15)<br>• *Études en France:* Dec 15, 2026 – Jan 15, 2027 | Email Faculty of Science Eiffel Office:<br>`sciences-international-eiffel@sorbonne-universite.fr` | [Sorbonne Science Master](https://sciences.sorbonne-universite.fr/en) |
-| **Université Côte d'Azur (UCA)** | Smart Systems, Control & IoT, Data Science | **November 24, 2026** | • **March 15, 2027** (MSc Wave 1 - Open Now)<br>• **May 1, 2027** (MSc Wave 2) | Email EUR SPECTRUM Coordinator:<br>`eur-spectrum.international@univ-cotedazur.fr` | [UCA Master Programs](https://univ-cotedazur.eu/msc-programs) |
-| **Université Paris-Saclay** | Electrical Engineering, Control (ATSI), AI | **November 26, 2026** | • **March 31, 2027** (Inception Wave 1 - Opens Feb 1)<br>• **May 15, 2027** (Wave 2) | Email dossier directly to the Master Track Coordinator | [Paris-Saclay Eiffel](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/bourses-internationales-de-master) |
-| **CentraleSupélec** | Control Engineering, Complex Systems, Smart Grids | **November 26, 2026** | • **March 31, 2027** (Round 1 - Opens Jan 5)<br>• **May 15, 2027** (Round 2) | Email dossier to the relevant Master Program Director | [CentraleSupélec Masters](https://www.centralesupelec.fr/en/masters) |
-| **Institut Polytechnique de Paris** | EE, Control & Autonomous Systems, Embedded AI | **November 27, 2026** | • **January 14, 2027** (Session 1 - Open Now)<br>• **March 31, 2027** (Session 2)<br>• **May 31, 2027** (Session 3) | Check the Eiffel nomination box inside the Session 1 Master portal | [IP Paris Masters](https://www.ip-paris.fr/en/education/masters) |
-| **ENS de Lyon** | Advanced Computer Science, Complex Systems | **December 8, 2026** | • **January 22, 2027** (Single portal - Opens Nov 14) | Submit degree app on portal + email `scientist.mobility@ens-lyon.fr` | [ENS de Lyon Eiffel](https://www.ens-lyon.fr/en/studies/student-life/financial-support/ampere-excellence-scholarships) |
+| **Université Grenoble Alpes (UGA) & Grenoble INP** | • **MISCIT** (Systems, Control & Information Tech)<br>• **MoSIG** (Master in Computer Science & AI) | **November 16, 2026** *(Closes Tomorrow)* | • **April 30, 2027** (e-candidat Wave 1)<br>• **May 31, 2027** (Wave 2)<br>• *Études en France:* Dec 15, 2026 – Jan 15, 2027 | Email dossier directly to Master Program Coordinator | [UGA Eiffel Portal](https://www.univ-grenoble-alpes.fr/english/study/finances/idex-scholarships/) |
+| **Université Côte d'Azur (UCA)** | • **MSc Smart Systems & Data Science / AI**<br>• **MSc Engineers for Smart Cities** | **November 24, 2026** | • **March 15, 2027** (MSc Wave 1 - Open Now)<br>• **May 1, 2027** (MSc Wave 2) | Email EUR SPECTRUM Coordinator:<br>`eur-spectrum.international@univ-cotedazur.fr` | [UCA MSc Programs](https://univ-cotedazur.eu/msc-programs) |
+| **Université Paris-Saclay & CentraleSupélec** | • **M1 International Track in Electrical Engineering** *(Mechatronics, Control, Embedded Systems, AI)* | **November 26, 2026** | • **March 31, 2027** (Inception Wave 1 - Opens Feb 1)<br>• **May 15, 2027** (Wave 2) | Email dossier directly to the Master Track Coordinator | [Paris-Saclay Master E3A](https://www.universite-paris-saclay.fr/en/education/master/electronique-energie-electrique-automatique/m1-international-track) |
+| **Institut Polytechnique de Paris** | • **Master in Electrical Engineering** (International Track)<br>• **Master in Computer Science** (AI Track) | **November 27, 2026** | • **January 14, 2027** (Session 1 - Open Now)<br>• **March 31, 2027** (Session 2)<br>• **May 31, 2027** (Session 3) | Check the Eiffel nomination box inside Session 1 Master portal | [IP Paris Masters](https://www.ip-paris.fr/en/education/masters) |
+| **ENS de Lyon** | • **Master in Computer Science** *(Informatique Fondamentale / Complex Systems)* | **December 8, 2026** | • **January 22, 2027** (Single portal - Opened Nov 14) | Submit degree app on portal + email `scientist.mobility@ens-lyon.fr` | [ENS de Lyon Eiffel](https://www.ens-lyon.fr/en/studies/student-life/financial-support/ampere-excellence-scholarships) |
 
 ---
 
@@ -48,10 +45,23 @@ These tracks integrate a 2-year Research Master directly into a 3-year PhD with 
 
 These university-funded excellence scholarships offer complete living allowances and full tuition waivers without requiring the Eiffel scholarship.
 
-| University & Scholarship | Eligible Tracks | Financial Package | Master Admission Deadline | Scholarship Deadline & Mechanism | Official Link |
+| University & Scholarship | Exact Verified English Track (M1 & M2) | Financial Package | Master Admission Deadline | Scholarship Deadline & Mechanism | Official Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ENS de Lyon**<br>Ampère Scholarship of Excellence | Computer Science, Complex Systems, Physics | • **€1,000 / month** living stipend<br>• Subsidized on-campus room (~€300/mo)<br>• National fee waiver | **January 22, 2027**<br>(23:59 CET) | **January 22, 2027**<br>(*Single unified form:* check the Ampère box in main Master application) | [ENS de Lyon Ampère](https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships) |
-| **Université Paris-Saclay**<br>IDEX Master Scholarship | Electrical Engineering, Control (ATSI), AI | • **€10,000 / year** living grant<br>• **Up to €1,000** travel/visa grant<br>• **100% Waiver** of international tuition fee | • **March 31, 2027** (Wave 1)<br>• **May 15, 2027** (Wave 2)<br>*(Portal opens Feb 1, 2027)* | **Pre-selection via Master Admission:** Top admitted students automatically receive an invitation link to confirm funding. | [Paris-Saclay IDEX](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/bourses-internationales-de-master) |
+| **ENS de Lyon**<br>Ampère Scholarship of Excellence | **Master in Computer Science**<br>*(100% English in M1 & M2)* | • **€1,000 / month** living stipend<br>• Guaranteed on-campus room (~€300/mo)<br>• Full fee waiver | **January 22, 2027**<br>(23:59 CET) | **January 22, 2027**<br>(*Single unified form:* check the Ampère box in main Master application) | [ENS de Lyon Ampère](https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships) |
+| **Université Paris-Saclay**<br>IDEX Master Scholarship | **M1 International Track in Electrical Engineering**<br>*(100% English in M1 & M2)* | • **€10,000 / year** living grant<br>• **Up to €1,000** travel grant<br>• **100% Waiver** of international tuition fee | • **March 31, 2027** (Wave 1)<br>• **May 15, 2027** (Wave 2)<br>*(Portal opens Feb 1, 2027)* | **Pre-selection via Master Admission:** Top admitted students automatically receive an invitation link. | [Paris-Saclay IDEX](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/bourses-internationales-de-master) |
+
+---
+
+## ⚠️ Pruned Programs (Excluded Due to French M1 Requirement)
+
+The following programs were examined on their official university portals and **deliberately removed** because their M1 year is taught in French:
+
+1. **Sorbonne Université – Master Automatique, Robotique (RoSys):**
+   * *Reason:* Official syllabus states that **M1 is taught predominantly in French** and requires mandatory proof of **French B2** level. Only M2 research modules are in English.
+2. **Université de Strasbourg – Master IRIV (Automatique et Robotique):**
+   * *Reason:* The standard *M1 Automatique, Signal, Informatique (ASI)* is delivered in **French** (requires **French B2**). Only their medical HealthTech branch is English.
+3. **Université Paris-Saclay – Standard EEA/ATSI Campus Tracks (Orsay/Evry/Versailles):**
+   * *Reason:* Domestic M1 tracks are conducted in French. **Only the specific "M1 International Track in Electrical Engineering"** is 100% in English.
 
 ---
 
