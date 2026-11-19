@@ -14,7 +14,6 @@ These tracks integrate a 2-year Research Master directly into a 3-year PhD with 
 | University | Exact English Program / Track | Language Verification | Financial Package | Unified Admission & Funding Deadline | Official Portal Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Institut Polytechnique de Paris (IP Paris)**<br>*(École Polytechnique, Télécom Paris, ENSTA)* | • PhD Track in Electrical Engineering<br>• PhD Track in Computer Science & AI<br>• PhD Track in Mechanics & Robotics | **100% English** in M1, M2, and PhD. Designed specifically for international students. | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** ~€2,300+ / mo gross doctoral salary | **January 14, 2027**<br>(23:59 CET) | [IP Paris PhD Track Portal](https://www.ip-paris.fr/en/education/phd-track) |
-| **Université PSL**<br>*(ENS Paris, Mines Paris, ESPCI)* | • PhD Track in Control, Decision & Robotics<br>• PhD Track in Computer Science<br>• PhD Track in Applied Physics & Energy | **100% English** in M1, M2, and PhD across all constituent laboratories. | • **100% Tuition Waived** (€0)<br>• **M1/M2:** €10,000 / year stipend<br>• **Years 3–5:** 3-year funded doctoral employment contract | **December 14, 2026**<br>(23:59 CET) | [PSL PhD Tracks Portal](https://psl.eu/en/education/psl-phd-tracks) |
 
 ---
 
@@ -52,15 +51,17 @@ These university-funded excellence scholarships offer complete living allowances
 
 ---
 
-## ⚠️ Pruned Programs (Excluded Due to French M1 Requirement)
+## ⚠️ Pruned Programs (Excluded Due to French M1 or Non-EU Tuition Gaps)
 
-The following programs were examined on their official university portals and **deliberately removed** because their M1 year is taught in French:
+The following programs were examined on their official university portals and **deliberately removed**:
 
-1. **Sorbonne Université – Master Automatique, Robotique (RoSys):**
+1. **Université PSL – PhD Tracks (Master Phase):**
+   * *Reason:* **Not guaranteed fully funded for non-EU students.** The official terms state that the €10,000/year grant does **not** cover tuition fees. Without an explicit, separate exemption (*exonération*), non-EU students are billed the differentiated Master tuition of **€3,950 / year + €105 CVEC**, leaving under €500/month for living expenses in Paris.
+2. **Sorbonne Université – Master Automatique, Robotique (RoSys):**
    * *Reason:* Official syllabus states that **M1 is taught predominantly in French** and requires mandatory proof of **French B2** level. Only M2 research modules are in English.
-2. **Université de Strasbourg – Master IRIV (Automatique et Robotique):**
+3. **Université de Strasbourg – Master IRIV (Automatique et Robotique):**
    * *Reason:* The standard *M1 Automatique, Signal, Informatique (ASI)* is delivered in **French** (requires **French B2**). Only their medical HealthTech branch is English.
-3. **Université Paris-Saclay – Standard EEA/ATSI Campus Tracks (Orsay/Evry/Versailles):**
+4. **Université Paris-Saclay – Standard EEA/ATSI Campus Tracks (Orsay/Evry/Versailles):**
    * *Reason:* Domestic M1 tracks are conducted in French. **Only the specific "M1 International Track in Electrical Engineering"** is 100% in English.
 
 ---
