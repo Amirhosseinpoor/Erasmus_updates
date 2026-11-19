@@ -46,8 +46,7 @@ These university-funded excellence scholarships offer complete living allowances
 
 | University & Scholarship | Exact Verified English Track (M1 & M2) | Financial Package | Master Admission Deadline | Scholarship Deadline & Mechanism | Official Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ENS de Lyon**<br>Ampère Scholarship of Excellence | **Master in Computer Science**<br>*(100% English in M1 & M2)* | • **€1,000 / month** living stipend<br>• Guaranteed on-campus room (~€300/mo)<br>• Full fee waiver | **January 22, 2027**<br>(23:59 CET) | **January 22, 2027**<br>(*Single unified form:* check the Ampère box in main Master application) | [ENS de Lyon Ampère](https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships) |
-| **Université Paris-Saclay**<br>IDEX Master Scholarship | **M1 International Track in Electrical Engineering**<br>*(100% English in M1 & M2)* | • **€10,000 / year** living grant<br>• **Up to €1,000** travel grant<br>• **100% Waiver** of international tuition fee | • **March 31, 2027** (Wave 1)<br>• **May 15, 2027** (Wave 2)<br>*(Portal opens Feb 1, 2027)* | **Pre-selection via Master Admission:** Top admitted students automatically receive an invitation link. | [Paris-Saclay IDEX](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/bourses-internationales-de-master) |
+| **ENS de Lyon**<br>Ampère Scholarship of Excellence | **Master in Computer Science**<br>*(100% English in M1 & M2)* | • **€1,000 / month** for **12 months** (€12,000/year)<br>• Standard domestic fee only (~€255/year + €105 CVEC; no €3,950 non-EU surcharge)<br>• Apply separately for housing (~€300–€400/mo)<br>• Age limit: ≤ 26 years old | **January 22, 2027**<br>(23:59 CET) | **January 22, 2027**<br>(*Single unified form:* check the Ampère box in main Master application) | [ENS de Lyon Ampère](https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships) |
 
 ---
 
@@ -57,11 +56,13 @@ The following programs were examined on their official university portals and **
 
 1. **Université PSL – PhD Tracks (Master Phase):**
    * *Reason:* **Not guaranteed fully funded for non-EU students.** The official terms state that the €10,000/year grant does **not** cover tuition fees. Without an explicit, separate exemption (*exonération*), non-EU students are billed the differentiated Master tuition of **€3,950 / year + €105 CVEC**, leaving under €500/month for living expenses in Paris.
-2. **Sorbonne Université – Master Automatique, Robotique (RoSys):**
+2. **Université Paris-Saclay – IDEX Master Scholarship:**
+   * *Reason:* **Not guaranteed fully funded for non-EU students.** Official regulations state that tuition fees are **not** covered by the €10,000 grant. Under French Decree no. 2026-385 (capping university non-EU exemptions at 25%), non-EU students risk paying the differentiated tuition fee of **€3,950 / year + €105 CVEC** out-of-pocket, reducing net monthly funds to ~€495/month. Furthermore, IDEX requires pre-selection by late March, making regular Wave 2 (May 15) too late.
+3. **Sorbonne Université – Master Automatique, Robotique (RoSys):**
    * *Reason:* Official syllabus states that **M1 is taught predominantly in French** and requires mandatory proof of **French B2** level. Only M2 research modules are in English.
-3. **Université de Strasbourg – Master IRIV (Automatique et Robotique):**
+4. **Université de Strasbourg – Master IRIV (Automatique et Robotique):**
    * *Reason:* The standard *M1 Automatique, Signal, Informatique (ASI)* is delivered in **French** (requires **French B2**). Only their medical HealthTech branch is English.
-4. **Université Paris-Saclay – Standard EEA/ATSI Campus Tracks (Orsay/Evry/Versailles):**
+5. **Université Paris-Saclay – Standard EEA/ATSI Campus Tracks (Orsay/Evry/Versailles):**
    * *Reason:* Domestic M1 tracks are conducted in French. **Only the specific "M1 International Track in Electrical Engineering"** is 100% in English.
 
 ---
