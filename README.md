@@ -16,7 +16,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 | 3 | [IMLEX](https://imlex.org/how-to-apply) | Photonics, Computer Vision, XR (EE & AI) | Opens 2 Dec 2026 | 13 Jan 2027 | Finland, France, Belgium, Japan |
 | 4 | [EPICO](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) | Autonomous Vehicles, Control + EE | **Open** | 31 Jan 2027 | France, Germany, Italy, Romania, Mexico |
 | 5 | [DENSYS](https://densys.univ-lorraine.fr/) | EE + Power + Smart Grid | **Open** | 27 Jan 2027 | France, Sweden, Italy, Spain |
-| 6 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Form Disabled | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
+| 6 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Opens late Nov 2026 | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
 | 7 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
 | 8 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
 
@@ -133,7 +133,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 * **Field / Relation:** AI + EE + transportation
 * **Official Link:** [https://smaccs.eu/about](https://smaccs.eu/about)
 * **Application Dates & Status:**
-  * **Status:** Application portal currently disabled
+  * **Status:** Opens late November 2026 *(Official note: "Scholarship applications for Edition 4 of the SMACCs (for studies starting in September 2027) will open late November 2026. STAY TUNED!")*
   * **Deadline (Scholarships):** 1 February 2027
   * **Interviews:** April 2027
   * **Deadline (Self-funded):** 30 April 2027 (Visa) / 8 June 2027 (No Visa)
