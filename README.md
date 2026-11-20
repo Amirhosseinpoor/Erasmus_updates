@@ -20,7 +20,6 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 | 7 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Form Disabled | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
 | 8 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
 | 9 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
-| 10 | [META 4.0](https://master-meta4-0.eu/) | EE Power / Smart Manufacturing | **Open** | 15 Feb 2027 | France, Italy, Norway, Slovenia, Germany |
 
 ---
 
@@ -219,26 +218,6 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
   * *Track 2 (Visual AI):* Year 1 at POLIMI (Italy) → Year 2 at Mid Sweden University (Sweden)
   * *Track 3 (Immersive Imaging):* Year 1 at Mid Sweden University (Sweden) → Year 2 at Tampere University (Finland)
 
----
 
-### 10. [META 4.0 — Manufacturing 4.0 by and for People](https://master-meta4-0.eu/)
-* **Field / Relation:** EE power (Manufacturing 4.0 / Digital & Smart Manufacturing)
-* **Official Link:** [https://master-meta4-0.eu/](https://master-meta4-0.eu/)
-* **Application Dates & Status:**
-  * **Status:** Open *(opened 15 November 2026)*
-  * **Deadline:** 15 February 2027
-  * **Interviews:** March 2027
-* **Countries:** France, Italy, Norway, Slovenia, Germany
-* **Universities & Current QS Rankings:**
-  * **Mines Saint-Étienne / ENISE** *(France – Coordinator)*: *Part of IMT (QS #420); QS Subject: #251–275*
-  * **Politecnico di Torino** *(Italy)*: **#241**
-  * **Norwegian University of Science and Technology (NTNU)** *(Norway)*: **#264**
-  * **University of Ljubljana** *(Slovenia)*: **#=596**
-  * **Technical University of Darmstadt (TU Darmstadt)** *(Germany)*: **#241**
-* **Program Timeline / Mobility:**
-  * **Semester 1:** Mines Saint-Étienne / ENISE (Saint-Étienne, France)
-  * **Semester 2:** Politecnico di Torino (Turin, Italy)
-  * **Semester 3 (Specialization):** NTNU (Norway) **OR** University of Ljubljana (Slovenia) **OR** Mines Saint-Étienne (France) **OR** TU Darmstadt (Germany)
-  * **Semester 4:** Master's Thesis / Industrial Internship
 
 
