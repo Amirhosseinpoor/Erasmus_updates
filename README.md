@@ -14,7 +14,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 | 1 | [STEPS](https://www.emjmdstepsrock.eu/) | EE + Power | **Open** | 8 Jan 2027 | Spain, Germany, Italy, Portugal |
 | 2 | [EDISS](https://www.master-ediss.eu/about-us/) | AI / Software Systems | Opens 16 Nov 2026 | 12 Jan 2027 | Finland, Sweden, Spain, Italy |
 | 3 | [CyberSURE](https://www.cybersure-master.eu/admission) | Cybersecurity | Opens 16 Nov 2026 | 4 Jan 2027 | Norway, Finland, Sweden, Denmark, Estonia, France, Austria |
-| 4 | [DeAI](https://deai.ulb.be/home/students/admission/) | AI-related | **Open** | 11 Jan 2027 | Belgium, Spain, Austria, France, Italy |
+| 4 | [DeAI](https://deai.ulb.be/home/students/admission/) | AI-related (Accepts EE) | **Open** | 11 Jan 2027 | Belgium, Spain, Austria, France, Italy |
 | 5 | [InterMaths](https://www.intermaths.eu/erasmus-mundus/apply) | Mathematics | **Open** | 17 Feb 2027 | Italy, Germany, Austria, Spain, France |
 | 6 | [Maths-DISC](https://mathsdisc.eu/admission/how-to-apply) | AI & Math | Opens Dec 2026 | Mar 2027 | Italy, Germany, Portugal, France, Ukraine |
 | 7 | [IMLEX](https://imlex.org/how-to-apply) | AI & EE / Imaging | Opens 2 Dec 2026 | 13 Jan 2027 | Finland, France, Belgium, Japan |
@@ -26,9 +26,6 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 | 13 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
 | 14 | [IPCV](https://ipcv.eu/) | AI & Computer Vision + EE | **Open** | 2 Feb 2027 | Hungary, Spain, France |
 | 15 | [META 4.0](https://master-meta4-0.eu/) | EE Power / Smart Manufacturing | **Open** | 15 Feb 2027 | France, Italy, Norway, Slovenia, Germany |
-| 16 | [EMAI](https://upf.edu/web/emai/access-admission) | Fully AI (Self-funded) | Opens 25 Nov 2026 | 5 Jun 2027 | Spain, Italy, Netherlands, Slovenia |
-| 17 | [CyberMACS](https://cybermacs.eu/) | Cybersecurity (Accepts EE) | Opens late Nov 2026 | TBA | Turkey, Germany, North Macedonia |
-| 18 | [IFROS](https://ifrosmaster.org/ifros/about-ifros) | AI & Robotics | Not open yet | TBA | Spain, Croatia, Hungary |
 
 ---
 
@@ -107,7 +104,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 ---
 
 ### 4. [DeAI — Decentralized Artificial Intelligence](https://deai.ulb.be/home/students/admission/)
-* **Field / Relation:** AI-related (mostly CS and CE)
+* **Field / Relation:** AI-related (accepts EE students as well, in addition to CS and CE)
 * **Official Link:** [https://deai.ulb.be/home/students/admission/](https://deai.ulb.be/home/students/admission/)
 * **Application Dates & Status:**
   * **Status:** Open *(opened 20 October 2026)*
@@ -352,56 +349,4 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
   * **Semester 3 (Specialization):** NTNU (Norway) **OR** University of Ljubljana (Slovenia) **OR** Mines Saint-Étienne (France) **OR** TU Darmstadt (Germany)
   * **Semester 4:** Master's Thesis / Industrial Internship
 
----
 
-### 16. [EMAI — European Master in Artificial Intelligence](https://upf.edu/web/emai/access-admission)
-* **Field / Relation:** Fully AI and related (looks like self-funded)
-* **Official Link:** [https://upf.edu/web/emai/access-admission](https://upf.edu/web/emai/access-admission)
-* **Application Dates & Status:**
-  * **Status:** Opens 25 November 2026
-  * **Period 1 Deadline (Worldwide self-funded):** 5 June 2027 (23:59 CEST)
-  * **Period 2 (EU self-funded):** Opens 6 June 2027 | Deadline: 6 July 2027
-* **Countries:** Spain, Italy, Netherlands, Slovenia
-* **Universities & Current QS Rankings:**
-  * **Pompeu Fabra University (UPF)** *(Spain – Coordinator)*: **#=265**
-  * **Sapienza University of Rome** *(Italy)*: **#132**
-  * **Radboud University** *(Netherlands)*: **#272**
-  * **University of Ljubljana** *(Slovenia)*: **#=596**
-* **Program Timeline / Mobility:**
-  * **Year 1 (Semesters 1 & 2):** Pompeu Fabra University (Barcelona, Spain) — *Foundational AI core*
-  * **Year 2 (Semesters 3 & 4):** Mobility to one partner university (Sapienza, Radboud, Ljubljana, or UPF) for specialization track and Master's Thesis
-
----
-
-### 17. [CyberMACS — Applied Cybersecurity](https://cybermacs.eu/)
-* **Field / Relation:** Cybersecurity (accepts EE as well)
-* **Official Link:** [https://cybermacs.eu/](https://cybermacs.eu/)
-* **Application Dates & Status:**
-  * **Status:** Opens end of November 2026
-  * **Deadline:** To be announced upon call release at end of November 2026
-* **Countries:** Turkey, Germany, North Macedonia
-* **Universities & Current QS Rankings:**
-  * **Kadir Has University (KHAS)** *(Turkey – Coordinator)*: *QS Europe: #551–600 (Western Asia #51)*
-  * **SRH Berlin University of Applied Sciences** *(Germany)*: *Unranked in global research list (QS Stars 5-Star rated)*
-  * **Ss. Cyril and Methodius University in Skopje (UKIM)** *(North Macedonia)*: *QS Europe: #351–400*
-* **Program Timeline / Mobility:**
-  * **Year 1 (Semesters 1 & 2):** Kadir Has University (Istanbul, Turkey) *(or S2 exchange at SRH/UKIM if Turkish resident)*
-  * **Year 2 (Semesters 3 & 4):** Specialization and Master's Thesis at SRH Berlin University of Applied Sciences (Germany) **OR** Ss. Cyril and Methodius University in Skopje (North Macedonia)
-
----
-
-### 18. [IFROS — Intelligent Field Robotic Systems](https://ifrosmaster.org/ifros/about-ifros)
-* **Field / Relation:** AI and robotics
-* **Official Link:** [https://ifrosmaster.org/ifros/about-ifros](https://ifrosmaster.org/ifros/about-ifros)
-* **Application Dates & Status:**
-  * **Status:** Not open yet
-  * **Dates:** 2027–2029 intake schedule pending official confirmation on portal
-* **Countries:** Spain, Croatia, Hungary
-* **Universities & Current QS Rankings:**
-  * **University of Girona (UdG)** *(Spain – Coordinator)*: *Unranked in global general list (QS Sustainability #1501+; CWUR top 4% globally)*
-  * **University of Zagreb (UNIZG)** *(Croatia)*: **#651–660**
-  * **Budapest University of Technology and Economics (BME)** *(Hungary)*: **#721–730**
-* **Program Timeline / Mobility:**
-  * **Year 1 (Semesters 1 & 2):** University of Girona (Girona, Spain)
-  * **Semester 3:** University of Zagreb (Croatia) **OR** Budapest University of Technology and Economics (Hungary)
-  * **Semester 4:** Master's Thesis / Internship at a consortium university or associated partner worldwide
