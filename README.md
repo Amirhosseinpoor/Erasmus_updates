@@ -13,12 +13,11 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 |---|---------|-------------------|--------|---------------|---------------|
 | 1 | [STEPS](https://www.emjmdstepsrock.eu/) | EE + Power / Electric Vehicles | **Open** | 8 Jan 2027 | Spain, Germany, Italy, Portugal |
 | 2 | [DeAI](https://deai.ulb.be/home/students/admission/) | AI-related (Accepts EE) | **Open** | 11 Jan 2027 | Belgium, Spain, Austria, France, Italy |
-| 3 | [IMLEX](https://imlex.org/how-to-apply) | Photonics, Computer Vision, XR (EE & AI) | Opens 2 Dec 2026 | 13 Jan 2027 | Finland, France, Belgium, Japan |
-| 4 | [EPICO](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) | Autonomous Vehicles, Control + EE | **Open** | 31 Jan 2027 | France, Germany, Italy, Romania, Mexico |
-| 5 | [DENSYS](https://densys.univ-lorraine.fr/) | EE + Power + Smart Grid | **Open** | 27 Jan 2027 | France, Sweden, Italy, Spain |
-| 6 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Opens late Nov 2026 | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
-| 7 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
-| 8 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
+| 3 | [EPICO](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) | Autonomous Vehicles, Control + EE | **Open** | 31 Jan 2027 | France, Germany, Italy, Romania, Mexico |
+| 4 | [DENSYS](https://densys.univ-lorraine.fr/) | EE + Power + Smart Grid | **Open** | 27 Jan 2027 | France, Sweden, Italy, Spain |
+| 5 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Opens late Nov 2026 | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
+| 6 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
+| 7 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
 
 ---
 
@@ -68,27 +67,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 3. [IMLEX — Imaging and Light in Extended Reality](https://imlex.org/how-to-apply)
-* **Field / Relation:** Photonics, Computer Vision, XR & Computational Imaging (AI & EE)
-* **Official Link:** [https://imlex.org/how-to-apply](https://imlex.org/how-to-apply)
-* **Application Dates & Status:**
-  * **Status:** Opens 2 December 2026
-  * **Deadline:** 13 January 2027
-* **Countries:** Finland, France, Belgium, Japan
-* **Universities & Current QS Rankings:**
-  * **University of Eastern Finland (UEF)** *(Finland – Coordinator)*: **#535**
-  * **Jean Monnet University Saint-Étienne** *(France)*: *Unranked in global list (QS Europe featured)*
-  * **KU Leuven** *(Belgium)*: **#60**
-  * **Toyohashi University of Technology** *(Japan)*: *Unranked in global list (QS Asia: #281–290)*
-* **Program Timeline / Mobility:**
-  * **Semester 1:** University of Eastern Finland (Joensuu, Finland)
-  * **Semester 2:** Jean Monnet University (France) *(Computational Imaging Track)* **OR** KU Leuven (Belgium) *(Lighting Track)*
-  * **Semester 3:** Toyohashi University of Technology (Toyohashi, Japan)
-  * **Semester 4:** Master's Thesis at a partner university or industry
-
----
-
-### 4. [EPICO — Electric Propulsion and Control Systems](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
+### 3. [EPICO — Electric Propulsion and Control Systems](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
 * **Field / Relation:** Autonomous vehicles, Control + EE
 * **Official Link:** [https://master-epico.ec-nantes.fr/english-version/admission/deadlines](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
 * **Application Dates & Status:**
@@ -110,7 +89,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 5. [DENSYS — Decentralized Smart Energy Systems](https://densys.univ-lorraine.fr/)
+### 4. [DENSYS — Decentralized Smart Energy Systems](https://densys.univ-lorraine.fr/)
 * **Field / Relation:** EE + power + smart grid
 * **Official Link:** [https://densys.univ-lorraine.fr/](https://densys.univ-lorraine.fr/)
 * **Application Dates & Status:**
@@ -129,7 +108,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 6. [SMACCs — Smart Cities and Communities](https://smaccs.eu/about)
+### 5. [SMACCs — Smart Cities and Communities](https://smaccs.eu/about)
 * **Field / Relation:** AI + EE + transportation
 * **Official Link:** [https://smaccs.eu/about](https://smaccs.eu/about)
 * **Application Dates & Status:**
@@ -150,7 +129,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 7. [CoDAS — Communications and Data Science](https://unite-codas-master.eu/)
+### 6. [CoDAS — Communications and Data Science](https://unite-codas-master.eu/)
 * **Field / Relation:** AI and EE (so related)
 * **Official Link:** [https://unite-codas-master.eu/](https://unite-codas-master.eu/)
 * **Application Dates & Status:**
@@ -169,7 +148,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 8. [IMAGING — Imaging Programme](https://emjm-imaging.eu/about-the-programme/)
+### 7. [IMAGING — Imaging Programme](https://emjm-imaging.eu/about-the-programme/)
 * **Field / Relation:** Imaging and AI + EE (relevant)
 * **Official Link:** [https://emjm-imaging.eu/about-the-programme/](https://emjm-imaging.eu/about-the-programme/)
 * **Application Dates & Status:**
