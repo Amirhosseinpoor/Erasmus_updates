@@ -11,21 +11,44 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 | # | Program | Field / Relation | Status | Main Deadline | Key Countries |
 |---|---------|-------------------|--------|---------------|---------------|
-| 1 | [CyberSURE](https://www.cybersure-master.eu/admission) | Cybersecurity | Opens 16 Nov 2026 | 4 Jan 2027 | Norway, Finland, Sweden, Denmark, Estonia, France, Austria |
-| 2 | [DeAI](https://deai.ulb.be/home/students/admission/) | AI-related (Accepts EE) | **Open** | 11 Jan 2027 | Belgium, Spain, Austria, France, Italy |
-| 3 | [InterMaths](https://www.intermaths.eu/erasmus-mundus/apply) | Mathematics | **Open** | 17 Feb 2027 | Italy, Germany, Austria, Spain, France |
-| 4 | [Maths-DISC](https://mathsdisc.eu/admission/how-to-apply) | AI & Math | Opens Dec 2026 | Mar 2027 | Italy, Germany, Portugal, France, Ukraine |
-| 5 | [EPICO](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) | Autonomous Vehicles, Control + EE | **Open** | 31 Jan 2027 | France, Germany, Italy, Romania, Mexico |
-| 6 | [DENSYS](https://densys.univ-lorraine.fr/) | EE + Power + Smart Grid | **Open** | 27 Jan 2027 | France, Sweden, Italy, Spain |
-| 7 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Form Disabled | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
-| 8 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
-| 9 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
+| 1 | [STEPS](https://www.emjmdstepsrock.eu/) | EE + Power / Electric Vehicles | **Open** | 8 Jan 2027 | Spain, Germany, Italy, Portugal |
+| 2 | [CyberSURE](https://www.cybersure-master.eu/admission) | Cybersecurity | Opens 16 Nov 2026 | 4 Jan 2027 | Norway, Finland, Sweden, Denmark, Estonia, France, Austria |
+| 3 | [DeAI](https://deai.ulb.be/home/students/admission/) | AI-related (Accepts EE) | **Open** | 11 Jan 2027 | Belgium, Spain, Austria, France, Italy |
+| 4 | [InterMaths](https://www.intermaths.eu/erasmus-mundus/apply) | Mathematics | **Open** | 17 Feb 2027 | Italy, Germany, Austria, Spain, France |
+| 5 | [Maths-DISC](https://mathsdisc.eu/admission/how-to-apply) | AI & Math | Opens Dec 2026 | Mar 2027 | Italy, Germany, Portugal, France, Ukraine |
+| 6 | [IMLEX](https://imlex.org/how-to-apply) | Photonics, Computer Vision, XR (EE & AI) | Opens 2 Dec 2026 | 13 Jan 2027 | Finland, France, Belgium, Japan |
+| 7 | [EPICO](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) | Autonomous Vehicles, Control + EE | **Open** | 31 Jan 2027 | France, Germany, Italy, Romania, Mexico |
+| 8 | [DENSYS](https://densys.univ-lorraine.fr/) | EE + Power + Smart Grid | **Open** | 27 Jan 2027 | France, Sweden, Italy, Spain |
+| 9 | [SMACCs](https://smaccs.eu/about) | AI + EE + Transportation | Form Disabled | 1 Feb 2027 | Spain, Finland, Belgium, Greece |
+| 10 | [CoDAS](https://unite-codas-master.eu/) | AI & EE | Opens 1 Dec 2026 | 5 Jan 2027 | Finland, France, Spain, Portugal, Germany |
+| 11 | [IMAGING](https://emjm-imaging.eu/about-the-programme/) | Imaging, AI + EE | Opens 23 Nov 2026 | 12 Jan 2027 | Finland, Italy, Sweden |
 
 ---
 
 ## Detailed Program Information
 
-### 1. [CyberSURE — Master in Cybersecurity](https://www.cybersure-master.eu/admission)
+### 1. [STEPS — Sustainable Transportation and Electrical Power Systems](https://www.emjmdstepsrock.eu/)
+* **Field / Relation:** Electrical Power Engineering, Electric Vehicles & Energy Conversion (EE + Power)
+* **Official Link:** [https://www.emjmdstepsrock.eu/](https://www.emjmdstepsrock.eu/)
+* **Application Dates & Status:**
+  * **Status:** Open
+  * **Deadline:** 8 January 2027
+  * **Note:** Oral interview for shortlisted applicants
+* **Countries:** Spain, Germany, Italy, Portugal
+* **Universities & Current QS Rankings:**
+  * **University of Oviedo** *(Spain – Coordinator)*: **#1001–1200**
+  * **Christian-Albrechts-Universität zu Kiel** *(Germany)*: **#611–620**
+  * **Sapienza University of Rome** *(Italy)*: **#132**
+  * **Polytechnic Institute of Coimbra** *(Portugal)*: *Unranked in global list (QS Europe Southern: #=165)*
+* **Program Timeline / Mobility:**
+  * **Semester 1:** Polytechnic Institute of Coimbra (Portugal) **OR** Sapienza University of Rome (Italy)
+  * **Semester 2:** Kiel University (Germany)
+  * **Semester 3:** University of Oviedo (Spain)
+  * **Semester 4:** Master's Thesis / Internship (Partner university, industry, or worldwide associated partner)
+
+---
+
+### 2. [CyberSURE — Master in Cybersecurity](https://www.cybersure-master.eu/admission)
 * **Field / Relation:** Cybersecurity (mostly CS and CE)
 * **Official Link:** [https://www.cybersure-master.eu/admission](https://www.cybersure-master.eu/admission)
 * **Application Dates & Status:**
@@ -53,7 +76,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 2. [DeAI — Decentralized Artificial Intelligence](https://deai.ulb.be/home/students/admission/)
+### 3. [DeAI — Decentralized Artificial Intelligence](https://deai.ulb.be/home/students/admission/)
 * **Field / Relation:** AI-related (accepts EE students as well, in addition to CS and CE)
 * **Official Link:** [https://deai.ulb.be/home/students/admission/](https://deai.ulb.be/home/students/admission/)
 * **Application Dates & Status:**
@@ -76,7 +99,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 3. [InterMaths — Interdisciplinary Mathematics](https://www.intermaths.eu/erasmus-mundus/apply)
+### 4. [InterMaths — Interdisciplinary Mathematics](https://www.intermaths.eu/erasmus-mundus/apply)
 * **Field / Relation:** Math related
 * **Official Link:** [https://www.intermaths.eu/erasmus-mundus/apply](https://www.intermaths.eu/erasmus-mundus/apply)
 * **Application Dates & Status:**
@@ -97,7 +120,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 4. [Maths-DISC — Mathematical Modelling, Simulation and Data Science](https://mathsdisc.eu/admission/how-to-apply)
+### 5. [Maths-DISC — Mathematical Modelling, Simulation and Data Science](https://mathsdisc.eu/admission/how-to-apply)
 * **Field / Relation:** AI and Math
 * **Official Link:** [https://mathsdisc.eu/admission/how-to-apply](https://mathsdisc.eu/admission/how-to-apply)
 * **Application Dates & Status:**
@@ -119,7 +142,27 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 5. [EPICO — Electric Propulsion and Control Systems](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
+### 6. [IMLEX — Imaging and Light in Extended Reality](https://imlex.org/how-to-apply)
+* **Field / Relation:** Photonics, Computer Vision, XR & Computational Imaging (AI & EE)
+* **Official Link:** [https://imlex.org/how-to-apply](https://imlex.org/how-to-apply)
+* **Application Dates & Status:**
+  * **Status:** Opens 2 December 2026
+  * **Deadline:** 13 January 2027
+* **Countries:** Finland, France, Belgium, Japan
+* **Universities & Current QS Rankings:**
+  * **University of Eastern Finland (UEF)** *(Finland – Coordinator)*: **#535**
+  * **Jean Monnet University Saint-Étienne** *(France)*: *Unranked in global list (QS Europe featured)*
+  * **KU Leuven** *(Belgium)*: **#60**
+  * **Toyohashi University of Technology** *(Japan)*: *Unranked in global list (QS Asia: #281–290)*
+* **Program Timeline / Mobility:**
+  * **Semester 1:** University of Eastern Finland (Joensuu, Finland)
+  * **Semester 2:** Jean Monnet University (France) *(Computational Imaging Track)* **OR** KU Leuven (Belgium) *(Lighting Track)*
+  * **Semester 3:** Toyohashi University of Technology (Toyohashi, Japan)
+  * **Semester 4:** Master's Thesis at a partner university or industry
+
+---
+
+### 7. [EPICO — Electric Propulsion and Control Systems](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
 * **Field / Relation:** Autonomous vehicles, Control + EE
 * **Official Link:** [https://master-epico.ec-nantes.fr/english-version/admission/deadlines](https://master-epico.ec-nantes.fr/english-version/admission/deadlines)
 * **Application Dates & Status:**
@@ -141,7 +184,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 6. [DENSYS — Decentralized Smart Energy Systems](https://densys.univ-lorraine.fr/)
+### 8. [DENSYS — Decentralized Smart Energy Systems](https://densys.univ-lorraine.fr/)
 * **Field / Relation:** EE + power + smart grid
 * **Official Link:** [https://densys.univ-lorraine.fr/](https://densys.univ-lorraine.fr/)
 * **Application Dates & Status:**
@@ -160,7 +203,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 7. [SMACCs — Smart Cities and Communities](https://smaccs.eu/about)
+### 9. [SMACCs — Smart Cities and Communities](https://smaccs.eu/about)
 * **Field / Relation:** AI + EE + transportation
 * **Official Link:** [https://smaccs.eu/about](https://smaccs.eu/about)
 * **Application Dates & Status:**
@@ -181,7 +224,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 8. [CoDAS — Communications and Data Science](https://unite-codas-master.eu/)
+### 10. [CoDAS — Communications and Data Science](https://unite-codas-master.eu/)
 * **Field / Relation:** AI and EE (so related)
 * **Official Link:** [https://unite-codas-master.eu/](https://unite-codas-master.eu/)
 * **Application Dates & Status:**
@@ -200,7 +243,7 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 ---
 
-### 9. [IMAGING — Imaging Programme](https://emjm-imaging.eu/about-the-programme/)
+### 11. [IMAGING — Imaging Programme](https://emjm-imaging.eu/about-the-programme/)
 * **Field / Relation:** Imaging and AI + EE (relevant)
 * **Official Link:** [https://emjm-imaging.eu/about-the-programme/](https://emjm-imaging.eu/about-the-programme/)
 * **Application Dates & Status:**
@@ -217,7 +260,3 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
   * *Track 1 (Image Modelling & Data-Intensive Imaging):* Year 1 at POLIMI (Italy) → Year 2 at Tampere University (Finland)
   * *Track 2 (Visual AI):* Year 1 at POLIMI (Italy) → Year 2 at Mid Sweden University (Sweden)
   * *Track 3 (Immersive Imaging):* Year 1 at Mid Sweden University (Sweden) → Year 2 at Tampere University (Finland)
-
-
-
-
