@@ -4,6 +4,9 @@ A comprehensive tracker of Erasmus Mundus Joint Masters (EMJM) programs, coverin
 
 > 📚 **Looking for Fully Funded Master & PhD Tracks in France?**  
 > Check out the [Top Fully Funded French University Programs (100% English-Taught)](./FRANCE_SCHOLARSHIPS.md) guide covering Direct 5-Year PhD Tracks, Eiffel Scholarships, and Institutional Grants with verified deadlines and application steps.
+> 
+> 📂 **Looking for Previously Reviewed / Removed Programs?**  
+> Check out the complete [Removed & Archived Programs Guide](./REMOVED_PROGRAMS.md) covering all 16 deprioritized programs with detailed mobility and QS ranking breakdowns.
 
 ---
 
