@@ -86,7 +86,16 @@ DeAI is done by myself. no action required.
 the two others remained just.
 look if I couldnt upload the translation of degree and official transcript go ahead with unofficial ones they probably dont need them. they need after getting a admission from them.
 
+5.1) For DeAI : refer to the address below 
 
+https://deai.ulb.ac.be/emundus
+
+write my email : amirhosseinpoora6@gmail.com
+
+you will get a pass from email and you can have access to my account.
+
+
+5.2)
 ---
 
 6. politecnico de milano:
