@@ -95,7 +95,12 @@ write my email : amirhosseinpoora6@gmail.com
 you will get a pass from email and you can have access to my account.
 
 
-5.2)
+5.2) Epico
+
+https://epico.ec-nantes.fr/
+
+username : ep5-0641
+pass : 9fusdauelx
 ---
 
 6. politecnico de milano:
